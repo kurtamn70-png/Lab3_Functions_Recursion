@@ -1,0 +1,11 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+<<<<<<< HEAD
+* .venv/
+__pycache__/
+
+
+
+=======
+* .venv/
+>>>>>>> 4b831f3335fae22050a1e734d4ef1b13ab815f0b
+
